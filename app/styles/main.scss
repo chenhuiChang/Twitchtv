@@ -9,7 +9,7 @@ $icon-font-path: '../fonts/';
 }
 .btn-group {
   display: inline-block;
-  padding-left: 15vw;
+  padding-left: 5vw;
 }
 .logo {
   width: 100px;
@@ -35,9 +35,11 @@ $icon-font-path: '../fonts/';
 }
 .channel-box-item p {
   font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
 }
 .channel-box .title {
   font-size: 25px;
+  font-family: 'Noto Sans', sans-serif;
 }
 .desc-long {
   display: inline-block;
@@ -85,8 +87,9 @@ body {
     margin-bottom: 0;
     line-height: 40px;
     padding-bottom: 19px;
-    font-size: 40px;
+    font-size: 70px;
     display: inline-block;
+    font-family: 'Oswald', sans-serif;
   }
 }
 
